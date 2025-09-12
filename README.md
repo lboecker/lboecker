@@ -1,14 +1,10 @@
 ### Hi there ✌️
 
-I'm a fullstack developer.
+I'm a __fullstack developer and tech lead__.
 
-- I've been writing JavaScript for 15+ years (TypeScript for 5+ years)
-- I've started playing around with Node in late 2010 (shoutout to [@felixge](https://cre.fm/cre167-nodejs))
-- I've spent the last 5+ years building backends with tRPC, gRPC, GraphQL, Fastify, Express and Prisma ...
-- ... and Frontends with Next.js, React Native and Nuxt
-- I'm obsessed with type-level TypeScript and type systems in general
-- I've been building lots of ~~overly~~ complex monorepos, in-house frameworks and libraries
-- I've written thousands of lines of GitLab CI YAML and a bunch of GitHub Actions too
-- I've written so many Dockerfiles and docker-compose.yamls
-- I've built a bare-metal Kubernetes cluster at some point
-- I've been living on the command line for 15+ years
+- Writing JavaScript for 15+ years, TypeScript for 5+
+- Got into Node.js back in 2010 (thanks [@felixge](https://cre.fm/cre167-nodejs))
+- Backend work with AWS, tRPC, gRPC, GraphQL, Fastify, Express, Prisma
+- Frontend experience with Next.js, React Native, Nuxt
+- Built and maintained large monorepos, internal frameworks, and libraries for teams
+- These days, I spend a lot of time thinking about architecture, DX, and how to keep things simple (or at least not _too_ complex)
