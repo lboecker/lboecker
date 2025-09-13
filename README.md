@@ -1,6 +1,6 @@
 ### Hi there ✌️
 
-I'm a __fullstack developer and tech lead__.
+I'm a __tech lead and fullstack developer__.
 
 - Writing JavaScript for 15+ years, TypeScript for 5+
 - Got into Node.js back in 2010 (thanks [@felixge](https://cre.fm/cre167-nodejs))
