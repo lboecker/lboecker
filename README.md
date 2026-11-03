@@ -1,10 +1,12 @@
 ### Hi there ✌️
 
-I'm a __tech lead and fullstack developer__.
+I'm a __tech lead and fullstack developer__ based in the Braunschweig/Wolfsburg area.
 
-- Writing JavaScript for 15+ years, TypeScript for 5+
+- Currently building an (almost) fully automated agentic development workflow for my team
 - Got into Node.js back in 2010 (thanks [@felixge](https://cre.fm/cre167-nodejs))
-- Backend work with AWS, tRPC, GraphQL, Fastify, Express, Prisma
-- Frontend experience with Next.js, React Native, Nuxt
+- TypeScript, obviously
+- Backend: AWS, tRPC, GraphQL, Fastify, Express, Prisma
+- Frontend: Next.js, React Native (Expo), Nuxt
 - Built and maintained large monorepos, internal frameworks, and libraries for teams
-- These days, I spend a lot of time thinking about architecture, DX, and how to keep things simple (or at least not _too_ complex)
+- Agency background, now doing product development
+- Working a lot on architecture, DX, and keeping things simple (or at least not _too_ complex)
